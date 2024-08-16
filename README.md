@@ -19,7 +19,10 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 **Logistic Regression**
 The method of modelling the probability of a discrete result given an input variable is known as logistic regression. The most frequent logistic regression models have a binary outcome, which might be true or false, yes or no, and so forth. Logistic regression is a handy analysis tool for determining if a fresh sample fits best into a category in classification tasks. Because components of cyber security, such as threat detection, are classification problems, logistic regression is a valuable analytic tool.
 
-
+![image](https://github.com/Aslammhk/credit_card_fraud_detection/blob/main/Decision%20Trees.png)
 
 **Decision Trees**
 By constructing a decision tree, the decision tree classifier builds the classification model. Each node in the tree represents a test on an attribute, and each branch descending from that node represents one of the property's possible values. The training set's instances are categorised by navigating them from the root of the tree to a leaf, based on the results of the tests along the way. Each node in the tree splits the instance space into two or more sub-spaces based on an attribute test condition, starting with the root node. After that, the procedure is repeated for the subtree rooted at the new node, until all records in the training set have been processed.
+
+![image](https://github.com/Aslammhk/credit_card_fraud_detection/blob/main/Decision%20Trees.png)
+
